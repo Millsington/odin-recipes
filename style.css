@@ -1,0 +1,25 @@
+/* style.css */
+
+#main {
+
+    font-size: 80px;
+    background-color: gold;
+    color: grey;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.links {
+
+    font-size: 30px;
+    font-weight: bold;
+    color: gold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#top-word {
+
+    font-size: 20px;
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
